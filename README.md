@@ -1,2 +1,2 @@
 # Machine_learning
-Here are concepts learnt from machine learning
+Here are concept learnings from machine learning
